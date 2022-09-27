@@ -1,0 +1,2 @@
+# MyModuleFederation
+ My Module Federation
